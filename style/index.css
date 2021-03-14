@@ -1,0 +1,27 @@
+table, th, td {
+  border: 10px solid white;
+  border-collapse: collapse;
+  font-family: "serif";
+  font-size: 14px;
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+  text-align: justify;
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+    color: #C70000;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+td {
+   padding-left: 20px;
+   padding-right: 20px;
+}
